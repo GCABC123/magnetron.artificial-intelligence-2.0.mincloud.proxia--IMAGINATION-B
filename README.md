@@ -1,16 +1,24 @@
 # magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-
+ 
 THE ABC 123 GROUP ™:
-GENERAL CONSULTING ABC 123 BY OSAROPRIME ™.
-ABC 123 USA ™
-ABC 123 DESYGN ™
-ABC 123 FILMS ™
+
+- GENERAL CONSULTING ABC 123 BY OSAROPRIME ™.
+
+- ABC 123 USA ™
+
+- ABC 123 DESYGN ™
+
+- ABC 123 FILMS ™
 =============================================================
 
 ARTIFICIAL INTELLIGENCE 2.0 ™ : IMAGINATION PROXIA B
 
 *️⃣📶🤖
 
-REQUIREMENTS: Google Colab/Jupyter Notebook, Python, Tensor Flow
+REQUIREMENTS: 
+
+Software Requirements: Google Colab/Jupyter Notebook, Python, Tensor Flow
+
 HARDWARE REQUIREMENTS: fast TPU Tensor Processing Unit)
 
 =============================================================
