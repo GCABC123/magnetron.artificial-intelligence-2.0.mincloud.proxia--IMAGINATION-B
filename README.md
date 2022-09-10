@@ -9,6 +9,7 @@ ABC 123 FILMS ™
 ARTIFICIAL INTELLIGENCE 2.0 ™ : IMAGINATION PROXIA B
 
 *️⃣📶🤖
+
 REQUIREMENTS: Google Colab/Jupyter Notebook, Python, Tensor Flow
 HARDWARE REQUIREMENTS: fast TPU Tensor Processing Unit)
 
