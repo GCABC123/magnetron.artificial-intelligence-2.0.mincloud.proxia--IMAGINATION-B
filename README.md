@@ -20,9 +20,9 @@ ARTIFICIAL INTELLIGENCE 2.0 ™ : IMAGINATION PROXIA B
 
 REQUIREMENTS: 
 
-Software Requirements: Google Colab/Jupyter Notebook, Python, Tensor Flow
+[*] Software Requirements: Google Colab/Jupyter Notebook, Python, Tensor Flow
 
-HARDWARE REQUIREMENTS: fast TPU Tensor Processing Unit)
+[*] HARDWARE REQUIREMENTS: fast TPU Tensor Processing Unit)
 
 =============================================================
 
