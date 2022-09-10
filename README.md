@@ -17,5 +17,7 @@ This is a Google Colab/Jupyter Notebook for developing an IMAGINATION proxia whe
 (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be
 developing a PROXIA.
 Prerequisite reading:
-ARTIFICIAL INTELLIGENCE PRIMER ™: https://www.facebook.com/artificialintelligenceprimer
-ARTIFICIAL INTELLIGENCE 2.0 ™ DOCUMENTATION: https://www.facebook.com/aibyabc123/
+
+- ARTIFICIAL INTELLIGENCE PRIMER ™: https://www.facebook.com/artificialintelligenceprimer
+
+- ARTIFICIAL INTELLIGENCE 2.0 ™ DOCUMENTATION: https://www.facebook.com/aibyabc123/
