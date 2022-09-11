@@ -1,4 +1,4 @@
-# magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-2
+# magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-B
  
 THE ABC 123 GROUP ™:
 
