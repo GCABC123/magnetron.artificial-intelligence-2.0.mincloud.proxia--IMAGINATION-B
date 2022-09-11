@@ -1,4 +1,4 @@
-# magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-
+# magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-2
  
 THE ABC 123 GROUP ™:
 
@@ -33,7 +33,8 @@ This is a Google Colab/Jupyter Notebook for (for one possible scheme in) develop
 (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be
 developing a PROXIA.
 
-e.g On an ASTRAL MINDCLOUD this PROXIA can be used to process INFORMATION from an INSTINCTIVE MIND PROXIA/MINDCLOUD (OBJECT DETECTION). So for example if the ROBOT detects a cup with the OBJECT DETECTION on the INSTINCTIVE MIND MINDCLOUD it can imagine a cup in some typical or unusual scenarios to better understand what it is and how humans see it.
+e.g On an ASTRAL MINDCLOUD this PROXIA can be used to process INFORMATION sent to it from an INSTINCTIVE MIND PROXIA/MINDCLOUD (OBJECT DETECTION). So for example if the ROBOT detects a cup with the OBJECT DETECTION on the INSTINCTIVE MIND MINDCLOUD it can IMAGINE a cup in some typical or unusual scenarios (On ASTRAL MINDCLOUD) to better understand what the detected object is and how humans see it.
+
 
 Prerequisite reading:
 
